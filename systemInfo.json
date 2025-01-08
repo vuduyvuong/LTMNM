@@ -1,0 +1,184 @@
+{
+  "OSType": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 8260169728,
+  "USEDRAM": 6714949632,
+  "CPU": [
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1121421,
+        "nice": 0,
+        "sys": 1781171,
+        "idle": 16754343,
+        "irq": 415906
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 777671,
+        "nice": 0,
+        "sys": 695000,
+        "idle": 18184156,
+        "irq": 80953
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 2763453,
+        "nice": 0,
+        "sys": 992718,
+        "idle": 15900656,
+        "irq": 76156
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1059156,
+        "nice": 0,
+        "sys": 627296,
+        "idle": 17970359,
+        "irq": 46281
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1790500,
+        "nice": 0,
+        "sys": 1002828,
+        "idle": 16863484,
+        "irq": 72796
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 887906,
+        "nice": 0,
+        "sys": 602578,
+        "idle": 18166359,
+        "irq": 41078
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1397828,
+        "nice": 0,
+        "sys": 896468,
+        "idle": 17362515,
+        "irq": 65093
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 801984,
+        "nice": 0,
+        "sys": 608375,
+        "idle": 18246484,
+        "irq": 45562
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1216015,
+        "nice": 0,
+        "sys": 832781,
+        "idle": 17608031,
+        "irq": 63515
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 715187,
+        "nice": 0,
+        "sys": 553250,
+        "idle": 18388390,
+        "irq": 42625
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1812781,
+        "nice": 0,
+        "sys": 1029640,
+        "idle": 16814421,
+        "irq": 85390
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 829093,
+        "nice": 0,
+        "sys": 578140,
+        "idle": 18249593,
+        "irq": 43390
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1143203,
+        "nice": 0,
+        "sys": 889531,
+        "idle": 17624093,
+        "irq": 65015
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 650671,
+        "nice": 0,
+        "sys": 528921,
+        "idle": 18477234,
+        "irq": 39562
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1025187,
+        "nice": 0,
+        "sys": 910437,
+        "idle": 17721203,
+        "irq": 64218
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "speed": 2304,
+      "times": {
+        "user": 1443078,
+        "nice": 0,
+        "sys": 598828,
+        "idle": 17614921,
+        "irq": 42312
+      }
+    }
+  ]
+}
